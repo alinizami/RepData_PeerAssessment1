@@ -1,3 +1,5 @@
+
+```{r }
 ---
 title: "Rep Research Project-1"
 author: "Ali Nizami"
@@ -154,9 +156,5 @@ qplot(interval,steps,data = ActivityComplete_factor, type = 'l',  geom=c("line")
 
 
 ```
-
-
-
-
-
+```
 
